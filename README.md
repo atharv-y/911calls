@@ -1,6 +1,7 @@
 # 911calls
 911 Calls analysis
-For this capstone project we will be analyzing some 911 call data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert). The data contains the following fields:
+We will be analyzing some 911 call data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert).
+The data contains the following fields:
 
 * lat : String variable, Latitude
 * lng: String variable, Longitude
